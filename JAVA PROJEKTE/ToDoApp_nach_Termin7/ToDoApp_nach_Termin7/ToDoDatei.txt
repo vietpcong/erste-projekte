@@ -1,0 +1,3 @@
+Todo;Haushalt;1.1.2020
+Todo;Garten;2.2.2022
+Todo;Studium;1.7.2025
